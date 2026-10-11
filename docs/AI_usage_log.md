@@ -52,7 +52,7 @@ Document Autopilot · ITAI 1378 Computer Vision and AI. Each entry shows what I 
 
 **What I Learned**: How a slide deck can be generated from code instead of drawn by hand.
 
-**How I Applied It**: I edited the slide wording myself in PowerPoint, and checked the dataset facts against the MIDV-2020 paper and the model licences on Hugging Face (PaddleOCR-VL-1.6 and Qwen3-VL-4B: Apache-2.0).
+**How I Applied It**: I reviewed the design layout and iterated on the changes, then checked the dataset facts against the MIDV-2020 paper and the model licences on Hugging Face (PaddleOCR-VL-1.6 and Qwen3-VL-4B: Apache-2.0).
 
 ## 5. Understanding MRZ check digits
 **Date**: October 5, 2026
