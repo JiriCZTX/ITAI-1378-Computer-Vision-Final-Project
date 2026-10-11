@@ -1,0 +1,15 @@
+# Blueprint stage: the planned stack. Exact versions are pinned at the First Working Demo (week 11).
+# notebooks/00_mrz_check_digits.ipynb needs only the Python standard library.
+numpy
+opencv-python
+torch
+torchvision
+timm
+ultralytics
+paddlepaddle
+paddleocr
+transformers
+python-doctr
+scikit-learn
+gradio
+jupyter
